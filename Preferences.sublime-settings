@@ -7,5 +7,9 @@
 	"rulers":
 	[
 		80
-	]
+	],
+	"theme": "ayu-mirage.sublime-theme",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"ui_separator": true,
+	"ui_wide_scrollbars": false
 }
