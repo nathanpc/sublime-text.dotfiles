@@ -1,0 +1,11 @@
+{
+	"extensions":
+	[
+		"pl",
+		"PL",
+		"pm",
+		"pod",
+		"t",
+		"cpanfile"
+	]
+}
