@@ -1,0 +1,11 @@
+# Sublime Text files that shouldn't be shared.
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+
+# Misc.
+.DS_Store
+Thumbs.db
