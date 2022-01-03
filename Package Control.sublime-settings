@@ -6,10 +6,10 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"ayu",
 		"BracketHighlighter",
 		"DocBlockr",
 		"GitGutter",
+		"Markdown Extended",
 		"ModernPerl",
 		"Mojolicious",
 		"Package Control",
@@ -18,6 +18,8 @@
 		"PHP Companion",
 		"PhpDoc",
 		"Restart",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Theme - Afterglow",
+		"Twilight+"
 	]
 }
