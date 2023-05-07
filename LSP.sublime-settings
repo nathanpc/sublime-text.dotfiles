@@ -3,7 +3,8 @@
 	{
 		"clangd":
 		{
-			"enabled": true
+			"enabled": true,
+			"command": ["/opt/local/libexec/llvm-14/bin/clangd"]
 		}
 	}
 }

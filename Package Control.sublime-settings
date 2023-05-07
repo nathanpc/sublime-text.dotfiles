@@ -6,14 +6,16 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"All Autocomplete",
 		"Base16 Color Schemes",
 		"BetterSwitchHeaderImplementation",
 		"BracketHighlighter",
 		"C Improved",
-		"DocBlockr",
+		"DocBlockr 2021 (DoxyDoxygen powered)",
 		"DoxyDoxygen",
 		"GitGutter",
 		"LSP",
+		"LSP-clangd",
 		"Markdown Extended",
 		"ModernPerl",
 		"Mojolicious",
@@ -25,6 +27,7 @@
 		"Restart",
 		"SublimeCodeIntel",
 		"Theme - Afterglow",
-		"Twilight+"
+		"Twilight+",
+		"C Improved"
 	]
 }
