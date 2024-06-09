@@ -13,8 +13,6 @@
 		"DocBlockr 2021 (DoxyDoxygen powered)",
 		"DoxyDoxygen",
 		"GitGutter",
-		"LSP",
-		"LSP-clangd",
 		"Markdown Extended",
 		"ModernPerl",
 		"Mojolicious",
@@ -25,7 +23,6 @@
 		"PhpDoc",
 		"Restart",
 		"SublimeCodeIntel",
-		"Theme - Afterglow",
 		"Twilight+",
 	],
 }

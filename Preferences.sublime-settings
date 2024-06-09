@@ -1,16 +1,10 @@
 {
-	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-tomorrow-night.tmTheme",
 	"font_size": 11,
-	"ignored_packages":
-	[
-		"Vintage",
-	],
 	"rulers":
 	[
 		80
 	],
 	"tabs_small": true,
-	"theme": "Afterglow-orange.sublime-theme",
 	"ui_separator": true,
 	"ui_wide_scrollbars": false,
 	"update_check": false,
