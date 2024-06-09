@@ -8,4 +8,9 @@
 	"ui_separator": true,
 	"ui_wide_scrollbars": false,
 	"update_check": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
 }

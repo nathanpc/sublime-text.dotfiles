@@ -7,6 +7,10 @@ Package Control.system-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
 
+# sFTP package.
+SFTP*
+sftp*
+
 # Misc.
 .DS_Store
 Thumbs.db
